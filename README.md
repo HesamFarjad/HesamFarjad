@@ -1,6 +1,8 @@
-- 👋🏼 Hi, I’m @HesamFarjad
-- 🎓 Holding a master's degree in computer engineering from La Sapienza University of Rome, I am dedicated to staying at the forefront of technology.
-- 💼 I am an experienced mobile app developer with a strong foundation in JavaScript, HTML, CSS, and Swift programming languages.
+- 👋🏼 Hi, I’m Hesam Farjad, a Full-Stack web developer who loves learning new technologies and frameworks.
+- <br>
+- 🎓 Holding a master's degree in computer engineering from **La Sapienza University of Rome**, I am dedicated to staying at the forefront of technology.
+- 💼 I am an experienced mobile app developer with a strong foundation in JavaScript, HTML, CSS, and Swift programming languages, and dedicating my time on React.js and React Native these days
+<br>
 - 🌱 In my recent endeavours, I have been actively involved in React.js development and React Native development, including Routing and Single Page Application development, demonstrating my commitment to advancing my skills. I bring proficiency in React, Redux, React Router, and JavaScript (ES6), along with hands-on experience in contributing to dynamic projects. Additionally, my familiarity with popular libraries and frameworks, such as jQuery, adds versatility to my skill set.
 - 😊 I invite you to explore my LinkedIn and GitHub profiles to review my recent projects, showcasing my dedication to quality and innovation. 
 - 📫 How to reach me: This is the link to my LinkedIn profile https://www.linkedin.com/in/hesamfarjad/ ,and my gmail address: farjadhesam@gmail.com
