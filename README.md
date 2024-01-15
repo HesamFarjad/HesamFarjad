@@ -1,7 +1,8 @@
 ![React-Native-ImgME](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/ab9b6a5e-b52e-473d-838c-371253b102b8)
 
-
+<br> 
 I'm a passionate Full-Stack web developer always eager to learn new technologies and frameworks.
+<br/>
 
 #### 🎓 Education
 - Master's degree in computer engineering from **La Sapienza University of Rome**
@@ -11,7 +12,6 @@ I'm a passionate Full-Stack web developer always eager to learn new technologies
 - Currently dedicated to React.js and React Native development.
 
 #### 🌱 Recent Endeavors
-In my recent endeavors, I've actively contributed to:
 - React.js development
 - React Native development, including Routing and Single Page Application development
 
