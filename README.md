@@ -18,18 +18,6 @@ Demonstrating proficiency in:
 - React, Redux, React Router
 - JavaScript (ES6)
 
-Familiarity with popular libraries and frameworks:
-- jQuery
-
-#### 😊 Let's Connect
-I invite you to explore my:
-- [LinkedIn Profile](https://www.linkedin.com/in/hesamfarjad/)
-- [GitHub Projects](https://github.com/yourusername)
-
-#### 📫 Contact
-- Email: farjadhesam@gmail.com
-
-
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="55" height="55" alt="react-HesamFarjad" />
