@@ -30,8 +30,6 @@ I invite you to explore my:
 - Email: farjadhesam@gmail.com
 
 
-
-
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="55" height="55" alt="react-HesamFarjad" />
@@ -51,14 +49,30 @@ I invite you to explore my:
     <img src="https://user-images.githubusercontent.com/91287064/228953632-c5d62e0b-1cd3-4a4d-bdfd-b7633f7662a0.png" width="55" height="55" alt="typescript-HesamFarjad"/>
 </p>
 
-</p>
+<p>
 <h3>My Favorite GitHub Repos</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=reader&theme=transparent" alt="reader-github-repository-atenadadkhah">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=Elite-Shop&theme=transparent" alt="elite-shop-github-repository-atenadadkhah">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=GD-captcha&theme=transparent" alt="gd-captcha-github-repository-atenadadkhah">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atenadadkhah&repo=iceXO&theme=transparent" alt="iceXO-github-repository-atenadadkhah">
+<img src="[https://github-readme-stats.vercel.app/api/pin/](https://github.com/HesamFarjad/WorldWise)?username=HesamFarjad&repo=reader&theme=transparent" alt="[reader-github-repository-atenadadkhah](https://github.com/HesamFarjad/WorldWise)">
+</p>
+
+
 <h2>How To Reach Me</h2>
 <p>
+    <a href="https://dev.to/atenadadkhah">
+        <img src="https://user-images.githubusercontent.com/91287064/208878642-b2b10974-a3db-4033-9ebe-32142125e575.png" alt="dev-atenadadkhah" width="50" height="50">
+    </a>
+    <a href="https://stackoverflow.com/users/18112609/atena-dadkhah">
+        <img src="https://user-images.githubusercontent.com/91287064/208878662-a1aff4dd-d72e-44b3-bf0d-2d862a5f87f6.png" alt="stackoverflow-atenadadkhah" width="50" height="50">
+    </a>
+    <a href="https://github.com/atenadadkhah">
+        <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-atenadadkhah" width="50" height="50">
+    </a>
+    <a href="https://www.linkedin.com/in/atena-dadkhah-143884220/">
+        <img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="linkedin-atenadadkhah" width="50" height="50">
+    </a>
+    <a href="mailto:https://github.com/atenadadkhah">
+        <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-atenadadkhah" width="50" height="50">
+    </a>
+</p>
 
 
 
