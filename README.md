@@ -1,6 +1,3 @@
-
-![github-HesamFarjad-readme](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/2839dc18-b56d-4b4d-a827-33441943ab00)
-
 ![—Pngtree—web development illustration modern_4461019](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/a72a2340-4cca-474a-a525-4743455a1462)
 
 
