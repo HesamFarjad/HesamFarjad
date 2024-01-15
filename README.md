@@ -3,7 +3,6 @@
 
 
 
-### 👋🏼 Hi, I'm Hesam Farjad
 
 I'm a passionate Full-Stack web developer always eager to learn new technologies and frameworks.
 
