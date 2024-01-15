@@ -37,10 +37,6 @@ Demonstrating proficiency in:
     <img src="https://user-images.githubusercontent.com/91287064/228953632-c5d62e0b-1cd3-4a4d-bdfd-b7633f7662a0.png" width="55" height="55" alt="typescript-HesamFarjad"/>
 </p>
 
-<p>
-<h2>My Favorite GitHub Repos</h2>
-<img src="[https://github-readme-stats.vercel.app/api/pin/](https://github.com/HesamFarjad/WorldWise)?username=HesamFarjad&repo=reader&theme=transparent" alt="[reader-github-repository-atenadadkhah](https://github.com/HesamFarjad/WorldWise)">
-</p>
 
 <p>
 <h2>How To Reach Me</h2>
