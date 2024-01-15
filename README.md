@@ -15,7 +15,7 @@
 - React.js development
 - React Native development, including Routing and Single Page Application development
 
-Demonstrating proficiency in:
+#### 🧩 Demonstrating proficiency in:
 - React, Redux, React Router
 - JavaScript (ES6)
 
