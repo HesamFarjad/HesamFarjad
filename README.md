@@ -60,11 +60,11 @@ I invite you to explore my:
     <a href="https://github.com/HesamFarjad">
         <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-HesamFarjad" width="50" height="50">
     </a>
-    <a href="https://www.linkedin.com/in/atena-dadkhah-143884220/">
-        <img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="linkedin-atenadadkhah" width="50" height="50">
+    <a href="https://www.linkedin.com/in/hesamfarjad/">
+        <img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="linkedin-HesamFarjad" width="50" height="50">
     </a>
-    <a href="mailto:https://github.com/atenadadkhah">
-        <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-atenadadkhah" width="50" height="50">
+    <a href="farjadhesam@gmail.com">
+        <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-HesamFarjad" width="50" height="50">
     </a>
 </p>
 
