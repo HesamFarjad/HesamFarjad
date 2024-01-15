@@ -49,8 +49,11 @@ I invite you to explore my:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="python-HesamFarjad"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="mysql-HesamFarjad"/>
     <img src="https://user-images.githubusercontent.com/91287064/228953632-c5d62e0b-1cd3-4a4d-bdfd-b7633f7662a0.png" width="55" height="55" alt="typescript-HesamFarjad"/>
+</p>
 
-
+<h2>Stats</h2>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=HesamFarjad&theme=transparent">
 </p>
 
 
