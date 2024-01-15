@@ -50,13 +50,12 @@ I invite you to explore my:
 </p>
 
 <p>
-<h3>My Favorite GitHub Repos</h3>
+<h2>My Favorite GitHub Repos</h2>
 <img src="[https://github-readme-stats.vercel.app/api/pin/](https://github.com/HesamFarjad/WorldWise)?username=HesamFarjad&repo=reader&theme=transparent" alt="[reader-github-repository-atenadadkhah](https://github.com/HesamFarjad/WorldWise)">
 </p>
 
-
-<h2>How To Reach Me</h2>
 <p>
+<h2>How To Reach Me</h2>
     <a href="https://github.com/HesamFarjad">
         <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-HesamFarjad" width="50" height="50">
     </a>
