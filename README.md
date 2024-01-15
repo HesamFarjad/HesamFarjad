@@ -57,14 +57,8 @@ I invite you to explore my:
 
 <h2>How To Reach Me</h2>
 <p>
-    <a href="https://dev.to/atenadadkhah">
-        <img src="https://user-images.githubusercontent.com/91287064/208878642-b2b10974-a3db-4033-9ebe-32142125e575.png" alt="dev-atenadadkhah" width="50" height="50">
-    </a>
-    <a href="https://stackoverflow.com/users/18112609/atena-dadkhah">
-        <img src="https://user-images.githubusercontent.com/91287064/208878662-a1aff4dd-d72e-44b3-bf0d-2d862a5f87f6.png" alt="stackoverflow-atenadadkhah" width="50" height="50">
-    </a>
-    <a href="https://github.com/atenadadkhah">
-        <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-atenadadkhah" width="50" height="50">
+    <a href="https://github.com/HesamFarjad">
+        <img src="https://user-images.githubusercontent.com/91287064/208878669-0146cc1a-b0a6-4a6e-9f4b-082c37264309.png" alt="github-HesamFarjad" width="50" height="50">
     </a>
     <a href="https://www.linkedin.com/in/atena-dadkhah-143884220/">
         <img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="linkedin-atenadadkhah" width="50" height="50">
