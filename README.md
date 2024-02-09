@@ -21,6 +21,7 @@
 
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="55" height="55" alt="react-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="javascript-HesamFarjad"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="nodejs-HesamFarjad"/>          
