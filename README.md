@@ -1,5 +1,5 @@
-![React-Native-ImgME](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/ab9b6a5e-b52e-473d-838c-371253b102b8)
-<img width="1384" alt="Screenshot 2024-02-23 at 09 14 11" src="https://github.com/HesamFarjad/HesamFarjad/assets/81914229/b21fa196-4481-4843-ab5b-27b99629615b">
+
+![MyBackGround](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/da69590e-47e0-455b-88be-8664ea3d0969)
 
 
 
