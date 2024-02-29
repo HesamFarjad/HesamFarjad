@@ -1,5 +1,4 @@
-
-![MyBackGround](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/da69590e-47e0-455b-88be-8664ea3d0969)
+![MyBackGround HD](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/b8335744-e8a7-455a-9178-4acf48e19881)
 
 
 
