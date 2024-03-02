@@ -9,12 +9,11 @@
 - Master's degree in computer engineering from **La Sapienza University of Rome**
 
 #### 💼 Experience
-- Experienced mobile app developer with a strong foundation in JavaScript, HTML, CSS, and Swift.
-- Currently dedicated to React.js and React Native development.
+- Experienced web developer proficient in JavaScript, HTML, and CSS, with a strong foundation in mobile app development. Skilled in providing iOS applications using Swift, with a background in C# and game development. Possesses good knowledge in Node.js, PostgreSQL, and Git version control.
 
 #### 🌱 Recent Endeavors
-- React.js development
-- React Native development, including Routing and Single Page Application development
+- React.js development, including Routing and Single Page Application development
+- React Native development.
 
 #### 🧩 Demonstrating proficiency
 - React, Redux, React Router
