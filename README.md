@@ -6,7 +6,8 @@
 
 
 #### 🎓 Education
-- Master's degree in computer engineering from **The Sapienza University of Rome**
+- **Master's degree** in **Computer Engineering** from **The Sapienza University of Rome**
+- Bachelor of Computer Engineering from **QIAU**
 
 #### 💼 Experience
 -  Experienced web developer proficient in JavaScript, HTML, and CSS.
