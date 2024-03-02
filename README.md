@@ -6,7 +6,7 @@
 
 
 #### 🎓 Education
-- Master's degree in computer engineering from **La Sapienza University of Rome**
+- Master's degree in computer engineering from **The Sapienza University of Rome**
 
 #### 💼 Experience
 - Experienced web developer proficient in JavaScript, HTML, and CSS, with a strong foundation in mobile app development. Skilled in providing iOS applications using Swift, with a background in C# and game development. Possesses good knowledge in Node.js, PostgreSQL, and Git version control.
