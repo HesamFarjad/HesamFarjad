@@ -10,9 +10,9 @@
 - Bachelor of Computer Engineering from **QIAU**
 
 #### 💼 Experience
--  Synthesized numerous React.js projects, incorporating Redux, React Router, and specializing in **SPA** development.
--  Experienced web developer proficient in **JavaScript**, **HTML5**, and **CSS**.
--  Strong foundation in **mobile app development** silled in providing **iOS Applications** using **Swift**.
+-  Synthesized numerous **React.js** projects, incorporating **Redux**, **React Router**, and specializing in **SPA** development.
+-  Junior **Web Developer** proficient in **JavaScript**, **HTML5**, and **CSS**.
+-  Strong foundation in **Mobile App Development** silled in providing **iOS Applications** using **Swift**.
 -  Background in **C#** and **Game Development**.
 -  Possesses good knowledge in **Node.js**, **PostgreSQL**, and **Git** version control.
 
