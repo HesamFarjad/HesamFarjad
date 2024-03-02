@@ -11,14 +11,11 @@
 
 #### 💼 Experience
 -  Experienced web developer proficient in JavaScript, HTML, and CSS.
+-  Synthesized numerous React.js projects, incorporating Redux, React Router, and specializing in Single Page Application (SPA) development.
 -  Strong foundation in mobile app development.
 -  Skilled in providing iOS applications using Swift.
 -  Background in C# and game development.
 -  Possesses good knowledge in Node.js, PostgreSQL, and Git version control.
-
-#### 🌱 Recent Endeavors
-- React.js development, including Redux, React Router and Single Page Application development.
-- React Native development.
 
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
