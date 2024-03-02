@@ -17,7 +17,7 @@
 -  Possesses good knowledge in Node.js, PostgreSQL, and Git version control.
 
 #### 🌱 Recent Endeavors
-- React.js development, including Routing and Single Page Application development
+- React.js development, including Routing and Single Page Application development.
 - React Native development.
 
 #### 🧩 Demonstrating proficiency
