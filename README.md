@@ -2,7 +2,7 @@
 
 
 
-#### I'm a passionate Full-Stack Web Developer always eager to learn new technologies and frameworks.
+#### I'm a passionate Full-Stack Developer always eager to learn new technologies and frameworks.
 
 
 #### 🎓 Education
