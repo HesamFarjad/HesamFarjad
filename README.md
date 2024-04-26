@@ -11,7 +11,7 @@
 
 #### 💼 Experience
 -  Junior **Web Developer** proficient in **JavaScript**, **HTML5**, and **CSS**.
--  expertise in **Python development**, adeptly utilizing libraries such as **pandas**, **numpy**, and **matplotlib**.
+-  Expertise in **Python development**, adeptly utilizing libraries such as **pandas**, **numpy**, and **matplotlib**.
 -  Synthesized numerous **React.js** projects, incorporating **Redux**, **React Router**, and **SPA** development.
 -  Strong foundation in **Mobile App Development** silled in providing **iOS Applications** using **Swift**.
 -  Possesses good knowledge in **Node.js**, **PostgreSQL**, and **Git** version control.
