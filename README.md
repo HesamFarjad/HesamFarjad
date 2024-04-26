@@ -26,6 +26,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="55" height="55" alt="swift-HesamFarjad"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="55" height="55" alt="react-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" alt="nodejs-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="55"height="55" alt="flask-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="55" height="55" alt="express-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="55" height="55" alt="nextjs-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55" height="55" alt="redux-HesamFarjad"/>
