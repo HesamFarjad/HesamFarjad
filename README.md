@@ -13,7 +13,7 @@
 -  Junior **Full Stack Developer**, proficient in **JavaScript**, **TypeScript**, **HTML5**, and **CSS**.
 -  Expertise in **Python development**, leveraging **pandas**. Experienced in **web development** with **Flask** for building scalable applications.
 -  Synthesized numerous **React.js** projects, incorporating **Redux**, **React Router**, and **SPA** development.
--  Strong foundation in **Mobile App Development** silled in providing **iOS Applications** using **Swift**.
+-  Strong background in **Mobile App Development**, adept at creating iOS and Android applications using **React Native**.
 -  Possesses good knowledge in **Node.js**, **PostgreSQL**, and **Git** version control.
 -  Background in **C#** and **Game Development**.
 
