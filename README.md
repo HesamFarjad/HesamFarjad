@@ -10,7 +10,7 @@
 - Bachelor of Computer Engineering from **QIAU**
 
 #### 💼 Experience
--  Junior **Web Developer** proficient in **JavaScript**, **HTML5**, and **CSS**.
+-  Junior **Web Developer** proficient in **JavaScript**, **TypeScript**, **HTML5**, and **CSS**.
 -  Expertise in **Python development**, adeptly utilizing libraries such as **pandas**, **numpy**, and **matplotlib**.
 -  Synthesized numerous **React.js** projects, incorporating **Redux**, **React Router**, and **SPA** development.
 -  Strong foundation in **Mobile App Development** silled in providing **iOS Applications** using **Swift**.
