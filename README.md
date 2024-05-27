@@ -11,7 +11,7 @@
 
 #### 💼 Experience
 -  Junior **Full Stack Developer** proficient in **JavaScript**, **TypeScript**, **HTML5**, and **CSS**.
--  Expertise in **Python development**, adeptly utilizing libraries such as **pandas**, **numpy**, and **matplotlib**.
+-  Expertise in **Python development**, leveraging libraries like **pandas**, Proficient in **web development** with **Flask** for building scalable applications.
 -  Synthesized numerous **React.js** projects, incorporating **Redux**, **React Router**, and **SPA** development.
 -  Strong foundation in **Mobile App Development** silled in providing **iOS Applications** using **Swift**.
 -  Possesses good knowledge in **Node.js**, **PostgreSQL**, and **Git** version control.
