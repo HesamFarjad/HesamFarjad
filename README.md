@@ -6,8 +6,8 @@
 
 
 #### 🎓 EDUCATIONS
-- **Master's degree** in **Computer Engineering** from **The Sapienza University of Rome**
-- Bachelor of Computer Engineering from **QIAU**
+- **Master's degree** in **Engineering in Computer Science** from **The Sapienza University of Rome**
+- Bachelor of **Computer Engineering** from **QIAU**
 
 #### 💼 EXPERIENCES
 -  Junior **Full Stack Developer**, proficient in **JavaScript**, **TypeScript**, **HTML5**, and **CSS**.
