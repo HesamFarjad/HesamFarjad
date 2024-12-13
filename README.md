@@ -9,7 +9,7 @@
 -  🌐  Implemented numerous **React.js** projects, incorporating **Context API**, **Redux**, **React Router**, and **SPA** development.
 -  📱  Strong background in **Mobile App Development**, adept at creating iOS and Android applications using **React Native**.
 -  💾  Proficient in **SQL databases** such as **PostgreSQL**, with professional experience in **Git** version control.
--  🎲  Background in **C#** and **Game Development**.
+-  🎲  Background in **Game Development** using **Unity**.
 
 #### 🎓 EDUCATIONS
 - **Master's degree** in **Engineering in Computer Science** from **The Sapienza University of Rome**
