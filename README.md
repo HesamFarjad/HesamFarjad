@@ -1,9 +1,6 @@
 ![MyBackGround HD](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/b8335744-e8a7-455a-9178-4acf48e19881)
 
 
-#### 🎓 EDUCATIONS
-- **Master's degree** in **Engineering in Computer Science** from **The Sapienza University of Rome**
-- Bachelor of **Computer Engineering** from **QIAU**
 
 #### 💼 EXPERIENCES
 -  🖥️  **Software Engineer at Relatech**, specializing in **full-stack** and **mobile app** development.
@@ -14,6 +11,9 @@
 -  💾  Proficient in **Node.js**, **PostgreSQL**, and **Git** version control. Experienced in building robust backends with **NestJS** and dynamic frontends with **Angular**.
 -  🎲  Background in **C#** and **Game Development**.
 
+#### 🎓 EDUCATIONS
+- **Master's degree** in **Engineering in Computer Science** from **The Sapienza University of Rome**
+- Bachelor of **Computer Engineering** from **QIAU**
 
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
