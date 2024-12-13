@@ -7,6 +7,7 @@
 -  🎗️  Proficient in programming languages, including **JavaScript**, **TypeScript**, **Python**, and **C#**.
 -  🐍  Expertise in **Angular** and **React.js** for web and frontend development, as well as **NestJS**, **Node.js**, **Express** and **Flask** for backend.
 -  🌐  Implemented numerous **React.js** projects, incorporating **Context API**, **Redux**, **React Router**, and **SPA** development.
+-  🎖️  Competent in **Bootstrap**, **PrimeNG**, and **Tailwind CSS**, with professional expertise in the foundational infrastructure of HTML and CSS.
 -  📱  Accomplished in **Mobile App Development**, adept at creating iOS and Android applications using **React Native**.
 -  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git** version control.
 -  🎲  Background in **Game Development** using **Unity**.
