@@ -20,9 +20,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="javascript-HesamFarjad"/>
     <img src="https://user-images.githubusercontent.com/91287064/228953632-c5d62e0b-1cd3-4a4d-bdfd-b7633f7662a0.png" width="55" height="55" alt="typescript-HesamFarjad"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="python-HesamFarjad"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="55" height="55" alt="angular-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#-HesamFarjad" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="55" height="55" alt="swift-HesamFarjad"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="55" height="55" alt="swift-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="55" height="55" alt="angular-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="55" height="55" alt="react-HesamFarjad" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55" height="55" alt="redux-HesamFarjad"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="55" height="55" alt="nextjs-HesamFarjad" />
