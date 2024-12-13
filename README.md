@@ -6,7 +6,7 @@
 - Bachelor of **Computer Engineering** from **QIAU**
 
 #### 💼 EXPERIENCES
--  🖥️  **Software Engineer at Relatech**, specializing in full-stack and mobile app development. Proficient in **JavaScript**, **TypeScript**, **HTML5**, and **CSS**.
+-  🖥️  **Software Engineer at Relatech**, specializing in full-stack and mobile app development. Proficient in **JavaScript**, **TypeScript**, **Python**, and **C#**.
 -  🐍  Expertise in **Python** in **web development** with **Flask** for building scalable applications.
 -  🌐  Synthesized numerous **React.js** projects, incorporating **Redux**, **React Router**, and **SPA** development.
 -  📱  Strong background in **Mobile App Development**, adept at creating iOS and Android applications using **React Native**.
