@@ -1,20 +1,16 @@
 ![MyBackGround HD](https://github.com/HesamFarjad/HesamFarjad/assets/81914229/b8335744-e8a7-455a-9178-4acf48e19881)
 
 
-
-#### I'm a passionate Full-Stack Developer always eager to learn new technologies and frameworks.
-
-
 #### 🎓 EDUCATIONS
 - **Master's degree** in **Engineering in Computer Science** from **The Sapienza University of Rome**
 - Bachelor of **Computer Engineering** from **QIAU**
 
 #### 💼 EXPERIENCES
--  🖥️  Junior **Full Stack Developer**, proficient in **JavaScript**, **TypeScript**, **HTML5**, and **CSS**.
--  🐍  Expertise in **Python**, leveraging **pandas**. Experienced in **web development** with **Flask** for building scalable applications.
+-  🖥️  **Software Engineer at Relatech**, specializing in full-stack and mobile app development. Proficient in **JavaScript**, **TypeScript**, **HTML5**, and **CSS**.
+-  🐍  Expertise in **Python** in **web development** with **Flask** for building scalable applications.
 -  🌐  Synthesized numerous **React.js** projects, incorporating **Redux**, **React Router**, and **SPA** development.
 -  📱  Strong background in **Mobile App Development**, adept at creating iOS and Android applications using **React Native**.
--  💾  Possesses good knowledge in **Node.js**, **PostgreSQL**, and **Git** version control.
+-  💾  Proficient in **Node.js**, **PostgreSQL**, and **Git** version control. Experienced in building robust backends with **NestJS** and dynamic frontends with **Angular**.
 -  🎲  Background in **C#** and **Game Development**.
 
 
