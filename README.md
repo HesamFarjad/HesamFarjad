@@ -68,7 +68,7 @@
         <img src="https://user-images.githubusercontent.com/91287064/208878678-26652569-8d38-45c9-aa13-28a33a7fc967.png" alt="gmail-HesamFarjad" width="50" height="50">
     </a>
     <a href="https://hesamfarjad.github.io">
-    <img src="https://imgur.com/5L6Eghy.png" alt="website-HesamFarjad" width="50" height="50">
+    <img src="https://imgur.com/cboStAG.png" alt="website-HesamFarjad" width="50" height="50">
     </a>
 </p>
 
