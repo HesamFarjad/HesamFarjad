@@ -69,7 +69,7 @@
     </a>
     <a href="https://hesamfarjad.github.io">
 <!--     <img src="https://imgur.com/cboStAG.png" alt="website-HesamFarjad" width="50" height="50"> -->
-        <img src="https://imgur.com/xXQmx2r.png" alt="website-HesamFarjad" width="50" height="50">
+        <img src="https://imgur.com/wuMiS5f.png" alt="website-HesamFarjad" width="50" height="50">
     </a>
 </p>
 
