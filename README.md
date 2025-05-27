@@ -8,7 +8,7 @@
 -  📓  Well-experienced in **.Net Core**, **Node.js**, **Express**, **NestJS**, and **Flask** for backend development.
 -  📰  Expertise in frameworks and libraries such as **Angular** and **React.js** for frontend development.
 -  🌐  Implemented numerous **React.js** projects, incorporating **Context API**, **Redux**, **React Router**, and **SPA** development.
--  📜  Competent in **Bootstrap**, **PrimeNG**, and **Tailwind CSS**, with professional expertise in **HTML** and **CSS**.
+-  📜  Competent in **Bootstrap**, **PrimeNG**, and **Tailwind**, with professional expertise in **HTML** and **CSS**.
 -  ⌨️  Adept in **jQuery**, leveraging its capabilities for creating dynamic, interactive, and user-friendly web applications.
 -  🔄 Experienced with **Redis** for **caching**, **real-time data**, and scalable solutions.
 -  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git**.
