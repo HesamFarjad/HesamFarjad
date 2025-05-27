@@ -10,7 +10,7 @@
 -  🌐  Implemented numerous **React.js** projects, incorporating **Context API**, **Redux**, **React Router**, and **SPA** development.
 -  📜  Competent in **Bootstrap**, **PrimeNG**, and **Tailwind CSS**, with professional expertise in **HTML** and **CSS**.
 -  ⌨️  Adept in **jQuery**, leveraging its capabilities for creating dynamic, interactive, and user-friendly web applications.
--  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git** version control.
+-  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git**.
 -  🔄 Experienced with **Redis** for **caching**, **real-time data**, and scalable solutions.
 -  📊 Proficient in **MongoDB** for **NoSQL DB management**, **scalability**, and **performance optimization**.
 -  ☁️ Skilled in **Firebase** and **Microsoft Azure** for **real-time databases**, **authentication**, and **scalable cloud services**.
