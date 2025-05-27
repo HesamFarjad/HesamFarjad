@@ -13,7 +13,7 @@
 -  🔄 Experienced with **Redis** for **caching**, **real-time data**, and scalable solutions.
 -  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git**.
 -  📊 Proficient in **MongoDB** for **NoSQL DB management**, **scalability**, and **performance optimization**.
--  ☁️ Skilled in **Firebase** and **Microsoft Azure** for **real-time databases**, **authentication**, and **scalable cloud services**.
+-  ☁️ Skilled in **Firebase** and **Microsoft Azure** for **real-time DBs**, **auth**, and **scalable cloud services**.
 -  🎲  Background in **Game Development** using **Unity**.
 
 #### 🎓 EDUCATIONS
