@@ -12,7 +12,7 @@
 -  ⌨️  Adept in **jQuery**, leveraging its capabilities for creating dynamic, interactive, and user-friendly web applications.
 -  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git** version control.
 -  🔄 Experienced with **Redis** for **caching**, **real-time data**, and scalable solutions.
--  📊 Proficient in **MongoDB** for **NoSQL database management**, **scalability**, and **performance optimization**.
+-  📊 Proficient in **MongoDB** for **NoSQL DB management**, **scalability**, and **performance optimization**.
 -  ☁️ Skilled in **Firebase** and **Microsoft Azure** for **real-time databases**, **authentication**, and **scalable cloud services**.
 -  🎲  Background in **Game Development** using **Unity**.
 
