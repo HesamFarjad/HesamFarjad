@@ -20,6 +20,74 @@
 - **Master's degree** in **Engineering in Computer Science** from **The Sapienza University of Rome**
 - Bachelor of **Computer Engineering** from **QIAU**
 
+
+
+<h2>Some Tools I Have Used And Learned</h2>
+
+<!-- 🧠 Programming Languages -->
+<h3>🧠 Programming Languages</h3>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="javascript-HesamFarjad"/>
+    <img src="https://user-images.githubusercontent.com/91287064/228953632-c5d62e0b-1cd3-4a4d-bdfd-b7633f7662a0.png" width="55" height="55" alt="typescript-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="python-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="55" height="55" alt="swift-HesamFarjad"/>
+</p>
+
+<!-- 🧩 Frontend Frameworks & Libraries -->
+<h3>🧩 Frontend Frameworks & Libraries</h3>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="55" height="55" alt="angular-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="55" height="55" alt="react-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="55" height="55" alt="redux-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="55" height="55" alt="nextjs-HesamFarjad" />
+</p>
+
+<!-- 🔧 Backend & Server-side -->
+<h3>🔧 Backend & Server-side</h3>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="55" height="55" alt="nestjs-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" alt="nodejs-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="55" height="55" alt="express-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="55" height="55" alt="dotnetcore-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="55" height="55" alt="flask-HesamFarjad" />
+</p>
+
+<!-- 💾 Databases -->
+<h3>💾 Databases</h3>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL-HesamFarjad" />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="55" height="55" alt="Redis-HesamFarjad" />
+</p>
+
+<!-- ☁️ Cloud & DevOps -->
+<h3>☁️ Cloud & DevOps</h3>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="55" height="55" alt="Firebase-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="55" height="55" alt="Azure-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="55" height="55" alt="Docker-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" alt="git-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="gitLab-HesamFarjad" />
+</p>
+
+<!-- 🎨 UI Libraries & Styling -->
+<h3>🎨 UI Libraries & Styling</h3>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="55" height="55" alt="jQuery-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" alt="bootstrap-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="tailwind-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="55" height="55" alt="Sass-HesamFarjad" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" alt="css3-HesamFarjad"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="55" height="55" alt="html5-HesamFarjad"/>
+</p>
+
+
+
+
+
+
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#-HesamFarjad" />
