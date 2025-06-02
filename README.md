@@ -14,7 +14,7 @@
 -  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git**.
 -  📊 Proficient in **MongoDB** for **NoSQL DB management**, **scalability**, and **performance optimization**.
 -  ☁️ Skilled in **Firebase** and **Microsoft Azure** for **real-time DBs**, **auth**, and **scalable cloud services**.
--  🎲  Background in **Game Development** using **Unity**.
+-  🎮 **Game Development** with **Unity** | Agile team player using **Jira** & **Scrum** .
 
 #### 🎓 EDUCATIONS
 - **Master's degree** in **Engineering in Computer Science** from **The Sapienza University of Rome**
