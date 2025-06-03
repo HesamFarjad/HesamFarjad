@@ -8,10 +8,10 @@
 -  📓  Well-experienced in **.Net Core**, **Node.js**, **Express**, **NestJS**, and **Flask** for backend development.
 -  📰  Expertise in frameworks and libraries such as **Angular** and **React.js** for frontend development.
 -  🌐  Implemented **React** projects, incorporating **Context API**, **Redux**, **Router**, and **SPA** development.
--  📜  Competent in **Bootstrap**, **PrimeNG**, **Tailwind**, **jQuery**, **HTML** and **CSS** for building interactive and professional-grade user interfaces.
+-  📜  Competent in **Bootstrap**, **PrimeNG**, **Tailwind**, **jQuery**, **HTML** and **CSS** for building user interfaces.
 -  🔄  Experienced with **Redis** for **caching**, **real-time data**, and scalable solutions, including Dockerized environments.
 -  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git**.
--  🧩  Skilled in applying Unified Modeling Language (UML) and well-known Design Patterns for planning, structuring, and maintaining scalable software systems.
+-  🧩 Skilled in UML and Design Patterns for scalable, and maintainable architecture.
 -  📊  Proficient in **MongoDB** for **NoSQL DB management**, **scalability**, and **performance optimization**.
 -  ☁️  Skilled in **Firebase** and **Microsoft Azure** for **real-time DBs**, **auth**, and **scalable cloud services**.
 -  🎮  **Game Development** with **Unity** | Agile team player experienced with **Scrum** and tools like **Jira**.
