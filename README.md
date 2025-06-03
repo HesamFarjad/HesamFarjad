@@ -8,13 +8,13 @@
 -  📓  Well-experienced in **.Net Core**, **Node.js**, **Express**, **NestJS**, and **Flask** for backend development.
 -  📰  Expertise in frameworks and libraries such as **Angular** and **React.js** for frontend development.
 -  🌐  Implemented **React** projects, incorporating **Context API**, **Redux**, **Router**, and **SPA** development.
--  📜  Competent in **Bootstrap**, **PrimeNG**, and **Tailwind**, with professional expertise in **HTML** and **CSS**.
--  ⌨️  Adept in **jQuery**, leveraging its capabilities for creating interactive, and user-friendly web apps.
--  🔄 Experienced with **Redis** for **caching**, **real-time data**, and scalable solutions, including Dockerized environments.
+-  📜  Competent in **Bootstrap**, **PrimeNG**, **Tailwind**, **jQuery**, **HTML** and **CSS** for building interactive and professional-grade user interfaces.
+-  🔄  Experienced with **Redis** for **caching**, **real-time data**, and scalable solutions, including Dockerized environments.
 -  💾  Well-versed in **SQL databases** such as **PostgreSQL**, with professional experience in **Git**.
--  📊 Proficient in **MongoDB** for **NoSQL DB management**, **scalability**, and **performance optimization**.
--  ☁️ Skilled in **Firebase** and **Microsoft Azure** for **real-time DBs**, **auth**, and **scalable cloud services**.
--  🎮 **Game Development** with **Unity** | Agile team player experienced with **Scrum** and tools like **Jira**.
+-  🧩  Skilled in applying Unified Modeling Language (UML) and well-known Design Patterns for planning, structuring, and maintaining scalable software systems.
+-  📊  Proficient in **MongoDB** for **NoSQL DB management**, **scalability**, and **performance optimization**.
+-  ☁️  Skilled in **Firebase** and **Microsoft Azure** for **real-time DBs**, **auth**, and **scalable cloud services**.
+-  🎮  **Game Development** with **Unity** | Agile team player experienced with **Scrum** and tools like **Jira**.
 
 #### 🎓 EDUCATIONS
 - **Master's degree** in **Engineering in Computer Science** from **The Sapienza University of Rome**
