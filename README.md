@@ -4,7 +4,7 @@
 
 #### EXPERIENCES
 -  🖥️  **Software Engineer at Relatech**, specializing in **full-stack** and **mobile app** development.
--  💻  Proficient in programming languages, including **C#**, **JavaScript**, **TypeScript**, and **Python**.
+-  💻  Proficient in programming languages, including **C#**, **JavaScript**, **TypeScript**, **Python**, and **Swift**.
 -  📓  Well-experienced in **.Net Core**, **Node.js**, **Express**, **NestJS**, and **Flask** for backend development.
 -  📰  Expertise in frameworks and libraries such as **Angular** and **React.js** for frontend development.
 -  🌐  Implemented **React** projects, incorporating **Context API**, **Redux**, **Router**, and **SPA** development.
